@@ -1,0 +1,12 @@
+/* ErrorHandler.module.css */
+.error-container {
+    background-color: #f8d7da;
+    border: 1px solid #f5c2c7;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.error-image {
+    max-height: 300px;
+    object-fit: contain;
+}
